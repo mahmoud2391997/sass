@@ -1,0 +1,27 @@
+header{
+    width: 60%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px auto;
+    
+}
+.logo{
+    width: 10%;
+    height: 100%;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    height: 100%;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    
+}
